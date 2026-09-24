@@ -1,4 +1,4 @@
-# KNOWFOOTBALL - Robots.txt
+# KNOWFOOTBALL - Robots.txt for Google SEO
 User-agent: *
 Allow: /
 
@@ -9,6 +9,7 @@ Crawl-delay: 1
 Allow: /
 
 User-agent: Bingbot
+Crawl-delay: 1
 Allow: /
 
 Host: https://salonsuitepage.github.io/knowfootball/
