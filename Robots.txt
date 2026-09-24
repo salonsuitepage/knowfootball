@@ -1,0 +1,14 @@
+# KNOWFOOTBALL - Robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://salonsuitepage.github.io/knowfootball/sitemap.xml
+
+User-agent: Googlebot
+Crawl-delay: 1
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Host: https://salonsuitepage.github.io/knowfootball/
